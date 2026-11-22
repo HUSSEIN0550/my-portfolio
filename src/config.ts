@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "hoseindoghish@gmail.com",
-    linkedin: "www.linkedin.com/in/hussein-dughaish-925276306",
+    linkedin: "https://www.linkedin.com/in/hussein-dughaish-925276306",
     twitter: "https://x.com",
     github: "https://github.com/HUSSEIN0550",
   },
